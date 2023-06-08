@@ -1,0 +1,3410 @@
+<table border="2px" id="apyreport" class="table table-hover table-bordered text-center">
+
+      <thead>
+        <!--tr>
+          <th rowspan="3">S.No.</th>
+          <th rowspan="3">State</th>
+          <th rowspan="3">District</th>
+          <th rowspan="3">Year</th>
+          <pre>Array
+(
+    [26] => Array
+        (
+            [crop_name] => Cotton(lint)
+            [session] => Array
+                (
+                    [K] => Array
+                        (
+                            [session_id] => K
+                            [session_name] => Kharif
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [crop_name] => Maize
+            [session] => Array
+                (
+                    [K] => Array
+                        (
+                            [session_id] => K
+                            [session_name] => Kharif
+                        )
+
+                )
+
+        )
+
+    [65] => Array
+        (
+            [crop_name] => Moong(Green Gram)
+            [session] => Array
+                (
+                    [K] => Array
+                        (
+                            [session_id] => K
+                            [session_name] => Kharif
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [crop_name] => Rice
+            [session] => Array
+                (
+                    [K] => Array
+                        (
+                            [session_id] => K
+                            [session_name] => Kharif
+                        )
+
+                )
+
+        )
+
+)
+</pre>          <th colspan="3" class="text-center">Cotton(lint)</th>
+
+                              <tr>
+                
+              <th colspan="3">Kharif</th>
+                            </tr>
+                          <tr>
+                <th>A</th>
+                <th>P</th>
+                <th>Y</th>
+              </tr>
+
+
+            
+
+            
+
+                  <th colspan="3" class="text-center">Maize</th>
+
+                              <tr>
+                
+              <th colspan="3">Kharif</th>
+                            </tr>
+                          <tr>
+                <th>A</th>
+                <th>P</th>
+                <th>Y</th>
+              </tr>
+
+
+            
+
+            
+
+                  <th colspan="3" class="text-center">Moong(Green Gram)</th>
+
+                              <tr>
+                
+              <th colspan="3">Kharif</th>
+                            </tr>
+                          <tr>
+                <th>A</th>
+                <th>P</th>
+                <th>Y</th>
+              </tr>
+
+
+            
+
+            
+
+                  <th colspan="3" class="text-center">Rice</th>
+
+                              <tr>
+                
+              <th colspan="3">Kharif</th>
+                            </tr>
+                          <tr>
+                <th>A</th>
+                <th>P</th>
+                <th>Y</th>
+              </tr>
+
+
+            
+
+            
+
+                </tr-->
+        <!-- tr>
+          <th colspan="3">Season 1</th>
+          <th colspan="3">Season 2</th>
+        </tr>
+        <tr scope="">
+          <th scope="colgroup">A</th>
+          <th scope="colgroup">P</th>
+          <th scope="colgroup">Y</th>
+
+          <th scope="colgroup">A</th>
+          <th scope="colgroup">P</th>
+          <th scope="colgroup">Y</th>
+        </tr -->
+		<tr>
+			<!-- th rowspan="3">S.No.</th -->
+			<th rowspan="3">State</th>
+			<th rowspan="3">District</th>
+			<th rowspan="3">Year</th>
+							<th colspan="3">Cotton(lint)</th><th colspan="3">Maize</th><th colspan="3">Moong(Green Gram)</th><th colspan="3">Rice</th>					  </tr>
+		  <tr>
+							<th colspan="3">Kharif</th><th colspan="3">Kharif</th><th colspan="3">Kharif</th><th colspan="3">Kharif</th>						</tr>
+			<tr>
+							<th count="1">Area (Hectare)</th><th count="1">Production (Bales)</th><th count="1">Yield (Bales/Hectare)</th><th count="1">Area (Hectare)</th><th count="1">Production (Tonnes)</th><th count="1">Yield (Tonne/Hectare)</th><th count="1">Area (Hectare)</th><th count="1">Production (Tonnes)</th><th count="1">Yield (Tonne/Hectare)</th><th count="1">Area (Hectare)</th><th count="1">Production (Tonnes)</th><th count="1">Yield (Tonne/Hectare)</th>						</tr>
+      </thead>
+
+      <tbody>
+        
+        <tr>
+          <!-- td rowspan="142">1</td -->
+          <td rowspan="142">1. Telangana </td>
+          <td rowspan="6">1. Adilabad</td>
+
+          <td>2014 - 2015</td>
+                    <td>304,424.00</td>
+          <td>573,033.00</td>
+          <td>
+            1.88          </td>
+                  <td>9,764.00</td>
+          <td>25,601.00</td>
+          <td>
+            2.62          </td>
+                  <td>5,973.00</td>
+          <td>3,440.00</td>
+          <td>
+            0.58          </td>
+                  <td>36,084.00</td>
+          <td>81,003.00</td>
+          <td>
+            2.24          </td>
+        
+
+        </tr>
+        
+
+          
+                      <tr>
+
+              <!-- td rowspan="">Adilabad</td -->
+              <td>2015 - 2016</td>
+                            <td>336,448.00</td>
+              <td>838,679.00</td>
+              <td>
+                2.49              </td>
+                          <td>11,181.00</td>
+              <td>34,885.00</td>
+              <td>
+                3.12              </td>
+                          <td>5,548.00</td>
+              <td>3,290.00</td>
+              <td>
+                0.59              </td>
+                          <td>42,575.00</td>
+              <td>108,571.00</td>
+              <td>
+                2.55              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Adilabad</td -->
+              <td>2016 - 2017</td>
+                            <td>105,746.00</td>
+              <td>288,002.00</td>
+              <td>
+                2.72              </td>
+                          <td>600.00</td>
+              <td>2,074.00</td>
+              <td>
+                3.46              </td>
+                          <td>2,561.00</td>
+              <td>1,654.00</td>
+              <td>
+                0.65              </td>
+                          <td>1,230.00</td>
+              <td>3,174.00</td>
+              <td>
+                2.58              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Adilabad</td -->
+              <td>2017 - 2018</td>
+                            <td>142,058.00</td>
+              <td>447,065.00</td>
+              <td>
+                3.15              </td>
+                          <td>328.00</td>
+              <td>1,132.00</td>
+              <td>
+                3.45              </td>
+                          <td>1,502.00</td>
+              <td>1,057.00</td>
+              <td>
+                0.70              </td>
+                          <td>556.00</td>
+              <td>1,334.00</td>
+              <td>
+                2.40              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Adilabad</td -->
+              <td>2018 - 2019</td>
+                            <td>142,447.00</td>
+              <td>362,821.00</td>
+              <td>
+                2.55              </td>
+                          <td>469.00</td>
+              <td>1,456.00</td>
+              <td>
+                3.10              </td>
+                          <td>1,253.00</td>
+              <td>1,031.00</td>
+              <td>
+                0.82              </td>
+                          <td>385.00</td>
+              <td>1,222.00</td>
+              <td>
+                3.17              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Adilabad</td -->
+              <td>2019 - 2020</td>
+                            <td>140,332.00</td>
+              <td>664,975.00</td>
+              <td>
+                4.74              </td>
+                          <td>218.00</td>
+              <td>1,055.00</td>
+              <td>
+                4.84              </td>
+                          <td>765.00</td>
+              <td>499.00</td>
+              <td>
+                0.65              </td>
+                          <td>508.00</td>
+              <td>1,846.00</td>
+              <td>
+                3.63              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">2. Bhadradri</td>
+                      <td>2016 - 2017</td>
+                        <td>37,975.00</td>
+            <td>128,445.00</td>
+            <td>
+              3.38            </td>
+                      <td>5,741.00</td>
+            <td>23,957.00</td>
+            <td>
+              4.17            </td>
+                      <td>489.00</td>
+            <td>215.00</td>
+            <td>
+              0.44            </td>
+                      <td>45,862.00</td>
+            <td>160,803.00</td>
+            <td>
+              3.51            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Bhadradri</td -->
+              <td>2017 - 2018</td>
+                            <td>46,097.00</td>
+              <td>179,236.00</td>
+              <td>
+                3.89              </td>
+                          <td>6,148.00</td>
+              <td>25,361.00</td>
+              <td>
+                4.13              </td>
+                          <td>163.00</td>
+              <td>104.00</td>
+              <td>
+                0.64              </td>
+                          <td>46,629.00</td>
+              <td>143,736.00</td>
+              <td>
+                3.08              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Bhadradri</td -->
+              <td>2018 - 2019</td>
+                            <td>48,246.00</td>
+              <td>117,209.00</td>
+              <td>
+                2.43              </td>
+                          <td>6,182.00</td>
+              <td>15,523.00</td>
+              <td>
+                2.51              </td>
+                          <td>128.00</td>
+              <td>81.00</td>
+              <td>
+                0.63              </td>
+                          <td>46,593.00</td>
+              <td>153,058.00</td>
+              <td>
+                3.28              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Bhadradri</td -->
+              <td>2019 - 2020</td>
+                            <td>48,548.00</td>
+              <td>165,831.00</td>
+              <td>
+                3.42              </td>
+                          <td>7,730.00</td>
+              <td>40,467.00</td>
+              <td>
+                5.24              </td>
+                          <td>77.00</td>
+              <td>61.00</td>
+              <td>
+                0.79              </td>
+                          <td>57,972.00</td>
+              <td>212,583.00</td>
+              <td>
+                3.67              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">3. Jagitial</td>
+                      <td>2016 - 2017</td>
+                        <td>13,052.00</td>
+            <td>41,766.00</td>
+            <td>
+              3.20            </td>
+                      <td>24,948.00</td>
+            <td>113,314.00</td>
+            <td>
+              4.54            </td>
+                      <td>1,634.00</td>
+            <td>993.00</td>
+            <td>
+              0.61            </td>
+                      <td>39,759.00</td>
+            <td>150,647.00</td>
+            <td>
+              3.79            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jagitial</td -->
+              <td>2017 - 2018</td>
+                            <td>10,809.00</td>
+              <td>20,982.00</td>
+              <td>
+                1.94              </td>
+                          <td>21,863.00</td>
+              <td>97,531.00</td>
+              <td>
+                4.46              </td>
+                          <td>1,635.00</td>
+              <td>1,591.00</td>
+              <td>
+                0.97              </td>
+                          <td>43,602.00</td>
+              <td>118,554.00</td>
+              <td>
+                2.72              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jagitial</td -->
+              <td>2018 - 2019</td>
+                            <td>8,291.00</td>
+              <td>23,215.00</td>
+              <td>
+                2.80              </td>
+                          <td>23,980.00</td>
+              <td>152,345.00</td>
+              <td>
+                6.35              </td>
+                          <td>1,066.00</td>
+              <td>583.00</td>
+              <td>
+                0.55              </td>
+                          <td>58,567.00</td>
+              <td>248,968.00</td>
+              <td>
+                4.25              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jagitial</td -->
+              <td>2019 - 2020</td>
+                            <td>11,291.00</td>
+              <td>38,405.00</td>
+              <td>
+                3.40              </td>
+                          <td>20,921.00</td>
+              <td>122,263.00</td>
+              <td>
+                5.84              </td>
+                          <td>922.00</td>
+              <td>573.00</td>
+              <td>
+                0.62              </td>
+                          <td>92,491.00</td>
+              <td>412,140.00</td>
+              <td>
+                4.46              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">4. Jangoan</td>
+                      <td>2016 - 2017</td>
+                        <td>56,065.00</td>
+            <td>169,844.00</td>
+            <td>
+              3.03            </td>
+                      <td>15,165.00</td>
+            <td>64,451.00</td>
+            <td>
+              4.25            </td>
+                      <td>3,786.00</td>
+            <td>2,964.00</td>
+            <td>
+              0.78            </td>
+                      <td>20,004.00</td>
+            <td>68,734.00</td>
+            <td>
+              3.44            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jangoan</td -->
+              <td>2017 - 2018</td>
+                            <td>78,259.00</td>
+              <td>247,206.00</td>
+              <td>
+                3.16              </td>
+                          <td>9,482.00</td>
+              <td>46,272.00</td>
+              <td>
+                4.88              </td>
+                          <td>1,017.00</td>
+              <td>573.00</td>
+              <td>
+                0.56              </td>
+                          <td>26,245.00</td>
+              <td>65,901.00</td>
+              <td>
+                2.51              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jangoan</td -->
+              <td>2018 - 2019</td>
+                            <td>64,566.00</td>
+              <td>141,286.00</td>
+              <td>
+                2.19              </td>
+                          <td>8,497.00</td>
+              <td>48,535.00</td>
+              <td>
+                5.71              </td>
+                          <td>641.00</td>
+              <td>333.00</td>
+              <td>
+                0.52              </td>
+                          <td>22,506.00</td>
+              <td>69,814.00</td>
+              <td>
+                3.10              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jangoan</td -->
+              <td>2019 - 2020</td>
+                            <td>68,824.00</td>
+              <td>198,078.00</td>
+              <td>
+                2.88              </td>
+                          <td>6,627.00</td>
+              <td>36,434.00</td>
+              <td>
+                5.50              </td>
+                          <td>728.00</td>
+              <td>653.00</td>
+              <td>
+                0.90              </td>
+                          <td>30,645.00</td>
+              <td>97,972.00</td>
+              <td>
+                3.20              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">5. Jayashankar</td>
+                      <td>2016 - 2017</td>
+                        <td>60,981.00</td>
+            <td>184,737.00</td>
+            <td>
+              3.03            </td>
+                      <td>2,890.00</td>
+            <td>12,283.00</td>
+            <td>
+              4.25            </td>
+                      <td>546.00</td>
+            <td>428.00</td>
+            <td>
+              0.78            </td>
+                      <td>62,937.00</td>
+            <td>213,267.00</td>
+            <td>
+              3.39            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jayashankar</td -->
+              <td>2017 - 2018</td>
+                            <td>65,999.00</td>
+              <td>166,550.00</td>
+              <td>
+                2.52              </td>
+                          <td>2,046.00</td>
+              <td>14,330.00</td>
+              <td>
+                7.00              </td>
+                          <td>127.00</td>
+              <td>81.00</td>
+              <td>
+                0.64              </td>
+                          <td>59,970.00</td>
+              <td>148,281.00</td>
+              <td>
+                2.47              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jayashankar</td -->
+              <td>2018 - 2019</td>
+                            <td>52,864.00</td>
+              <td>154,549.00</td>
+              <td>
+                2.92              </td>
+                          <td>569.00</td>
+              <td>3,869.00</td>
+              <td>
+                6.80              </td>
+                          <td>105.00</td>
+              <td>66.00</td>
+              <td>
+                0.63              </td>
+                          <td>27,081.00</td>
+              <td>98,737.00</td>
+              <td>
+                3.65              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jayashankar</td -->
+              <td>2019 - 2020</td>
+                            <td>52,386.00</td>
+              <td>185,795.00</td>
+              <td>
+                3.55              </td>
+                          <td>1,126.00</td>
+              <td>5,459.00</td>
+              <td>
+                4.85              </td>
+                          <td>185.00</td>
+              <td>146.00</td>
+              <td>
+                0.79              </td>
+                          <td>33,296.00</td>
+              <td>106,814.00</td>
+              <td>
+                3.21              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">6. Jogulamba</td>
+                      <td>2016 - 2017</td>
+                        <td>38,428.00</td>
+            <td>67,362.00</td>
+            <td>
+              1.75            </td>
+                      <td>6,869.00</td>
+            <td>7,494.00</td>
+            <td>
+              1.09            </td>
+                      <td>48.00</td>
+            <td>31.00</td>
+            <td>
+              0.65            </td>
+                      <td>15,493.00</td>
+            <td>39,019.00</td>
+            <td>
+              2.52            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jogulamba</td -->
+              <td>2017 - 2018</td>
+                            <td>59,363.00</td>
+              <td>130,249.00</td>
+              <td>
+                2.19              </td>
+                          <td>6,910.00</td>
+              <td>38,972.00</td>
+              <td>
+                5.64              </td>
+                          <td>53.00</td>
+              <td>34.00</td>
+              <td>
+                0.64              </td>
+                          <td>17,677.00</td>
+              <td>40,241.00</td>
+              <td>
+                2.28              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jogulamba</td -->
+              <td>2018 - 2019</td>
+                            <td>59,265.00</td>
+              <td>116,787.00</td>
+              <td>
+                1.97              </td>
+                          <td>8,151.00</td>
+              <td>22,048.00</td>
+              <td>
+                2.70              </td>
+                          <td></td>
+              <td></td>
+              <td>
+                              </td>
+                          <td>21,127.00</td>
+              <td>54,233.00</td>
+              <td>
+                2.57              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Jogulamba</td -->
+              <td>2019 - 2020</td>
+                            <td>76,386.00</td>
+              <td>234,280.00</td>
+              <td>
+                3.07              </td>
+                          <td>7,051.00</td>
+              <td>34,753.00</td>
+              <td>
+                4.93              </td>
+                          <td></td>
+              <td></td>
+              <td>
+                              </td>
+                          <td>27,604.00</td>
+              <td>87,891.00</td>
+              <td>
+                3.18              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">7. Kamareddy</td>
+                      <td>2016 - 2017</td>
+                        <td>7,864.00</td>
+            <td>18,133.00</td>
+            <td>
+              2.31            </td>
+                      <td>24,962.00</td>
+            <td>131,425.00</td>
+            <td>
+              5.27            </td>
+                      <td>6,987.00</td>
+            <td>5,988.00</td>
+            <td>
+              0.86            </td>
+                      <td>35,357.00</td>
+            <td>139,448.00</td>
+            <td>
+              3.94            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Kamareddy</td -->
+              <td>2017 - 2018</td>
+                            <td>17,808.00</td>
+              <td>45,044.00</td>
+              <td>
+                2.53              </td>
+                          <td>26,288.00</td>
+              <td>140,693.00</td>
+              <td>
+                5.35              </td>
+                          <td>6,266.00</td>
+              <td>5,752.00</td>
+              <td>
+                0.92              </td>
+                          <td>54,599.00</td>
+              <td>165,648.00</td>
+              <td>
+                3.03              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Kamareddy</td -->
+              <td>2018 - 2019</td>
+                            <td>18,253.00</td>
+              <td>66,355.00</td>
+              <td>
+                3.64              </td>
+                          <td>23,142.00</td>
+              <td>142,786.00</td>
+              <td>
+                6.17              </td>
+                          <td>4,697.00</td>
+              <td>5,185.00</td>
+              <td>
+                1.10              </td>
+                          <td>54,663.00</td>
+              <td>232,427.00</td>
+              <td>
+                4.25              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Kamareddy</td -->
+              <td>2019 - 2020</td>
+                            <td>19,206.00</td>
+              <td>61,975.00</td>
+              <td>
+                3.23              </td>
+                          <td>35,689.00</td>
+              <td>218,888.00</td>
+              <td>
+                6.13              </td>
+                          <td>5,814.00</td>
+              <td>5,866.00</td>
+              <td>
+                1.01              </td>
+                          <td>84,732.00</td>
+              <td>382,141.00</td>
+              <td>
+                4.51              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="6">8. Karimnagar</td>
+                      <td>2014 - 2015</td>
+                        <td>214,586.00</td>
+            <td>585,694.00</td>
+            <td>
+              2.73            </td>
+                      <td>53,598.00</td>
+            <td>245,318.00</td>
+            <td>
+              4.58            </td>
+                      <td>3,044.00</td>
+            <td>1,129.00</td>
+            <td>
+              0.37            </td>
+                      <td>179,282.00</td>
+            <td>632,136.00</td>
+            <td>
+              3.53            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Karimnagar</td -->
+              <td>2015 - 2016</td>
+                            <td>201,244.00</td>
+              <td>548,269.00</td>
+              <td>
+                2.72              </td>
+                          <td>45,611.00</td>
+              <td>186,868.00</td>
+              <td>
+                4.10              </td>
+                          <td>3,258.00</td>
+              <td>2,271.00</td>
+              <td>
+                0.70              </td>
+                          <td>116,345.00</td>
+              <td>381,263.00</td>
+              <td>
+                3.28              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Karimnagar</td -->
+              <td>2016 - 2017</td>
+                            <td>47,541.00</td>
+              <td>152,131.00</td>
+              <td>
+                3.20              </td>
+                          <td>18,643.00</td>
+              <td>84,677.00</td>
+              <td>
+                4.54              </td>
+                          <td>647.00</td>
+              <td>393.00</td>
+              <td>
+                0.61              </td>
+                          <td>33,075.00</td>
+              <td>125,321.00</td>
+              <td>
+                3.79              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Karimnagar</td -->
+              <td>2017 - 2018</td>
+                            <td>53,366.00</td>
+              <td>185,839.00</td>
+              <td>
+                3.48              </td>
+                          <td>8,394.00</td>
+              <td>39,259.00</td>
+              <td>
+                4.68              </td>
+                          <td>450.00</td>
+              <td>287.00</td>
+              <td>
+                0.64              </td>
+                          <td>46,710.00</td>
+              <td>135,833.00</td>
+              <td>
+                2.91              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Karimnagar</td -->
+              <td>2018 - 2019</td>
+                            <td>42,918.00</td>
+              <td>93,915.00</td>
+              <td>
+                2.19              </td>
+                          <td>10,831.00</td>
+              <td>61,379.00</td>
+              <td>
+                5.67              </td>
+                          <td>425.00</td>
+              <td>267.00</td>
+              <td>
+                0.63              </td>
+                          <td>54,612.00</td>
+              <td>207,034.00</td>
+              <td>
+                3.79              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Karimnagar</td -->
+              <td>2019 - 2020</td>
+                            <td>36,762.00</td>
+              <td>111,148.00</td>
+              <td>
+                3.02              </td>
+                          <td>11,004.00</td>
+              <td>68,605.00</td>
+              <td>
+                6.23              </td>
+                          <td>391.00</td>
+              <td>308.00</td>
+              <td>
+                0.79              </td>
+                          <td>79,406.00</td>
+              <td>267,201.00</td>
+              <td>
+                3.36              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="6">9. Khammam</td>
+                      <td>2014 - 2015</td>
+                        <td>157,416.00</td>
+            <td>484,286.00</td>
+            <td>
+              3.08            </td>
+                      <td>16,750.00</td>
+            <td>56,330.00</td>
+            <td>
+              3.36            </td>
+                      <td>4,845.00</td>
+            <td>2,423.00</td>
+            <td>
+              0.50            </td>
+                      <td>110,439.00</td>
+            <td>328,435.00</td>
+            <td>
+              2.97            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Khammam</td -->
+              <td>2015 - 2016</td>
+                            <td>154,994.00</td>
+              <td>464,001.00</td>
+              <td>
+                2.99              </td>
+                          <td>11,348.00</td>
+              <td>41,466.00</td>
+              <td>
+                3.65              </td>
+                          <td>6,739.00</td>
+              <td>4,488.00</td>
+              <td>
+                0.67              </td>
+                          <td>109,579.00</td>
+              <td>337,054.00</td>
+              <td>
+                3.08              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Khammam</td -->
+              <td>2016 - 2017</td>
+                            <td>83,018.00</td>
+              <td>280,796.00</td>
+              <td>
+                3.38              </td>
+                          <td>4,012.00</td>
+              <td>16,742.00</td>
+              <td>
+                4.17              </td>
+                          <td>17,470.00</td>
+              <td>7,687.00</td>
+              <td>
+                0.44              </td>
+                          <td>37,999.00</td>
+              <td>135,788.00</td>
+              <td>
+                3.57              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Khammam</td -->
+              <td>2017 - 2018</td>
+                            <td>97,801.00</td>
+              <td>389,478.00</td>
+              <td>
+                3.98              </td>
+                          <td>4,725.00</td>
+              <td>22,789.00</td>
+              <td>
+                4.82              </td>
+                          <td>10,089.00</td>
+              <td>4,712.00</td>
+              <td>
+                0.47              </td>
+                          <td>56,206.00</td>
+              <td>153,450.00</td>
+              <td>
+                2.73              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Khammam</td -->
+              <td>2018 - 2019</td>
+                            <td>97,134.00</td>
+              <td>217,694.00</td>
+              <td>
+                2.24              </td>
+                          <td>3,281.00</td>
+              <td>17,593.00</td>
+              <td>
+                5.36              </td>
+                          <td>7,976.00</td>
+              <td>2,808.00</td>
+              <td>
+                0.35              </td>
+                          <td>82,437.00</td>
+              <td>295,619.00</td>
+              <td>
+                3.59              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Khammam</td -->
+              <td>2019 - 2020</td>
+                            <td>100,370.00</td>
+              <td>351,605.00</td>
+              <td>
+                3.50              </td>
+                          <td>4,475.00</td>
+              <td>24,474.00</td>
+              <td>
+                5.47              </td>
+                          <td>7,091.00</td>
+              <td>5,176.00</td>
+              <td>
+                0.73              </td>
+                          <td>92,196.00</td>
+              <td>335,225.00</td>
+              <td>
+                3.64              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">10. Komaram bheem asifabad</td>
+                      <td>2016 - 2017</td>
+                        <td>71,072.00</td>
+            <td>193,567.00</td>
+            <td>
+              2.72            </td>
+                      <td>1,103.00</td>
+            <td>3,812.00</td>
+            <td>
+              3.46            </td>
+                      <td>3,146.00</td>
+            <td>2,032.00</td>
+            <td>
+              0.65            </td>
+                      <td>11,980.00</td>
+            <td>32,619.00</td>
+            <td>
+              2.72            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Komaram bheem asifabad</td -->
+              <td>2017 - 2018</td>
+                            <td>83,197.00</td>
+              <td>176,182.00</td>
+              <td>
+                2.12              </td>
+                          <td>1,148.00</td>
+              <td>3,961.00</td>
+              <td>
+                3.45              </td>
+                          <td>1,469.00</td>
+              <td>1,136.00</td>
+              <td>
+                0.77              </td>
+                          <td>7,311.00</td>
+              <td>13,071.00</td>
+              <td>
+                1.79              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Komaram bheem asifabad</td -->
+              <td>2018 - 2019</td>
+                            <td>91,992.00</td>
+              <td>216,452.00</td>
+              <td>
+                2.35              </td>
+                          <td>1,013.00</td>
+              <td>4,701.00</td>
+              <td>
+                4.64              </td>
+                          <td>1,155.00</td>
+              <td>817.00</td>
+              <td>
+                0.71              </td>
+                          <td>11,774.00</td>
+              <td>24,619.00</td>
+              <td>
+                2.09              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Komaram bheem asifabad</td -->
+              <td>2019 - 2020</td>
+                            <td>124,884.00</td>
+              <td>408,435.00</td>
+              <td>
+                3.27              </td>
+                          <td>477.00</td>
+              <td>1,565.00</td>
+              <td>
+                3.28              </td>
+                          <td>1,285.00</td>
+              <td>1,027.00</td>
+              <td>
+                0.80              </td>
+                          <td>24,201.00</td>
+              <td>67,787.00</td>
+              <td>
+                2.80              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">11. Mahabubabad</td>
+                      <td>2016 - 2017</td>
+                        <td>30,249.00</td>
+            <td>91,637.00</td>
+            <td>
+              3.03            </td>
+                      <td>13,144.00</td>
+            <td>55,862.00</td>
+            <td>
+              4.25            </td>
+                      <td>15,553.00</td>
+            <td>12,178.00</td>
+            <td>
+              0.78            </td>
+                      <td>29,989.00</td>
+            <td>102,569.00</td>
+            <td>
+              3.42            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mahabubabad</td -->
+              <td>2017 - 2018</td>
+                            <td>42,476.00</td>
+              <td>105,690.00</td>
+              <td>
+                2.49              </td>
+                          <td>14,631.00</td>
+              <td>78,012.00</td>
+              <td>
+                5.33              </td>
+                          <td>14,369.00</td>
+              <td>9,541.00</td>
+              <td>
+                0.66              </td>
+                          <td>36,342.00</td>
+              <td>85,729.00</td>
+              <td>
+                2.36              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mahabubabad</td -->
+              <td>2018 - 2019</td>
+                            <td>36,495.00</td>
+              <td>91,882.00</td>
+              <td>
+                2.52              </td>
+                          <td>12,961.00</td>
+              <td>44,482.00</td>
+              <td>
+                3.43              </td>
+                          <td>8,876.00</td>
+              <td>4,527.00</td>
+              <td>
+                0.51              </td>
+                          <td>39,461.00</td>
+              <td>123,355.00</td>
+              <td>
+                3.13              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mahabubabad</td -->
+              <td>2019 - 2020</td>
+                            <td>40,779.00</td>
+              <td>90,689.00</td>
+              <td>
+                2.22              </td>
+                          <td>10,003.00</td>
+              <td>56,849.00</td>
+              <td>
+                5.68              </td>
+                          <td>4,034.00</td>
+              <td>3,663.00</td>
+              <td>
+                0.91              </td>
+                          <td>46,834.00</td>
+              <td>157,409.00</td>
+              <td>
+                3.36              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="6">12. Mahbubnagar</td>
+                      <td>2014 - 2015</td>
+                        <td>237,683.00</td>
+            <td>464,509.00</td>
+            <td>
+              1.95            </td>
+                      <td>176,277.00</td>
+            <td>317,122.00</td>
+            <td>
+              1.80            </td>
+                      <td>4,759.00</td>
+            <td>1,780.00</td>
+            <td>
+              0.37            </td>
+                      <td>111,302.00</td>
+            <td>282,357.00</td>
+            <td>
+              2.54            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mahbubnagar</td -->
+              <td>2015 - 2016</td>
+                            <td>273,989.00</td>
+              <td>262,561.00</td>
+              <td>
+                0.96              </td>
+                          <td>159,806.00</td>
+              <td>202,954.00</td>
+              <td>
+                1.27              </td>
+                          <td>9,204.00</td>
+              <td>653.00</td>
+              <td>
+                0.07              </td>
+                          <td>66,075.00</td>
+              <td>149,451.00</td>
+              <td>
+                2.26              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mahbubnagar</td -->
+              <td>2016 - 2017</td>
+                            <td>34,499.00</td>
+              <td>60,475.00</td>
+              <td>
+                1.75              </td>
+                          <td>46,280.00</td>
+              <td>50,491.00</td>
+              <td>
+                1.09              </td>
+                          <td>4,530.00</td>
+              <td>2,904.00</td>
+              <td>
+                0.64              </td>
+                          <td>32,691.00</td>
+              <td>92,029.00</td>
+              <td>
+                2.82              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mahbubnagar</td -->
+              <td>2017 - 2018</td>
+                            <td>73,982.00</td>
+              <td>121,418.00</td>
+              <td>
+                1.64              </td>
+                          <td>39,125.00</td>
+              <td>56,692.00</td>
+              <td>
+                1.45              </td>
+                          <td>5,120.00</td>
+              <td>2,913.00</td>
+              <td>
+                0.57              </td>
+                          <td>31,129.00</td>
+              <td>60,217.00</td>
+              <td>
+                1.93              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mahbubnagar</td -->
+              <td>2018 - 2019</td>
+                            <td>35,870.00</td>
+              <td>46,209.00</td>
+              <td>
+                1.29              </td>
+                          <td>34,550.00</td>
+              <td>41,529.00</td>
+              <td>
+                1.20              </td>
+                          <td>61.00</td>
+              <td>33.00</td>
+              <td>
+                0.54              </td>
+                          <td>11,792.00</td>
+              <td>28,749.00</td>
+              <td>
+                2.44              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mahbubnagar</td -->
+              <td>2019 - 2020</td>
+                            <td>39,210.00</td>
+              <td>124,818.00</td>
+              <td>
+                3.18              </td>
+                          <td>25,131.00</td>
+              <td>78,058.00</td>
+              <td>
+                3.11              </td>
+                          <td>100.00</td>
+              <td>79.00</td>
+              <td>
+                0.79              </td>
+                          <td>13,972.00</td>
+              <td>48,385.00</td>
+              <td>
+                3.46              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">13. Mancherial</td>
+                      <td>2016 - 2017</td>
+                        <td>48,282.00</td>
+            <td>131,497.00</td>
+            <td>
+              2.72            </td>
+                      <td>1,193.00</td>
+            <td>4,123.00</td>
+            <td>
+              3.46            </td>
+                      <td>1,365.00</td>
+            <td>882.00</td>
+            <td>
+              0.65            </td>
+                      <td>27,651.00</td>
+            <td>85,954.00</td>
+            <td>
+              3.11            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mancherial</td -->
+              <td>2017 - 2018</td>
+                            <td>56,470.00</td>
+              <td>193,991.00</td>
+              <td>
+                3.44              </td>
+                          <td>644.00</td>
+              <td>2,222.00</td>
+              <td>
+                3.45              </td>
+                          <td>473.00</td>
+              <td>302.00</td>
+              <td>
+                0.64              </td>
+                          <td>29,897.00</td>
+              <td>56,949.00</td>
+              <td>
+                1.90              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mancherial</td -->
+              <td>2018 - 2019</td>
+                            <td>60,229.00</td>
+              <td>196,630.00</td>
+              <td>
+                3.26              </td>
+                          <td>493.00</td>
+              <td>1,937.00</td>
+              <td>
+                3.93              </td>
+                          <td>262.00</td>
+              <td>165.00</td>
+              <td>
+                0.63              </td>
+                          <td>39,549.00</td>
+              <td>127,625.00</td>
+              <td>
+                3.23              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mancherial</td -->
+              <td>2019 - 2020</td>
+                            <td>73,114.00</td>
+              <td>210,425.00</td>
+              <td>
+                2.88              </td>
+                          <td>228.00</td>
+              <td>1,104.00</td>
+              <td>
+                4.84              </td>
+                          <td>91.00</td>
+              <td>72.00</td>
+              <td>
+                0.79              </td>
+                          <td>65,137.00</td>
+              <td>174,176.00</td>
+              <td>
+                2.67              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="6">14. Medak</td>
+                      <td>2014 - 2015</td>
+                        <td>133,703.00</td>
+            <td>233,587.00</td>
+            <td>
+              1.75            </td>
+                      <td>110,476.00</td>
+            <td>170,464.00</td>
+            <td>
+              1.54            </td>
+                      <td>14,940.00</td>
+            <td>8,232.00</td>
+            <td>
+              0.55            </td>
+                      <td>73,983.00</td>
+            <td>234,342.00</td>
+            <td>
+              3.17            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Medak</td -->
+              <td>2015 - 2016</td>
+                            <td>134,239.00</td>
+              <td>226,183.00</td>
+              <td>
+                1.68              </td>
+                          <td>102,855.00</td>
+              <td>218,053.00</td>
+              <td>
+                2.12              </td>
+                          <td>25,154.00</td>
+              <td>10,162.00</td>
+              <td>
+                0.40              </td>
+                          <td>61,512.00</td>
+              <td>174,884.00</td>
+              <td>
+                2.84              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Medak</td -->
+              <td>2016 - 2017</td>
+                            <td>7,605.00</td>
+              <td>16,284.00</td>
+              <td>
+                2.14              </td>
+                          <td>31,345.00</td>
+              <td>78,927.00</td>
+              <td>
+                2.52              </td>
+                          <td>4,353.00</td>
+              <td>2,951.00</td>
+              <td>
+                0.68              </td>
+                          <td>31,715.00</td>
+              <td>97,175.00</td>
+              <td>
+                3.06              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Medak</td -->
+              <td>2017 - 2018</td>
+                            <td>12,347.00</td>
+              <td>60,282.00</td>
+              <td>
+                4.88              </td>
+                          <td>18,652.00</td>
+              <td>69,143.00</td>
+              <td>
+                3.71              </td>
+                          <td>2,063.00</td>
+              <td>1,362.00</td>
+              <td>
+                0.66              </td>
+                          <td>45,317.00</td>
+              <td>130,422.00</td>
+              <td>
+                2.88              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Medak</td -->
+              <td>2018 - 2019</td>
+                            <td>13,991.00</td>
+              <td>34,566.00</td>
+              <td>
+                2.47              </td>
+                          <td>13,678.00</td>
+              <td>36,479.00</td>
+              <td>
+                2.67              </td>
+                          <td>1,304.00</td>
+              <td>558.00</td>
+              <td>
+                0.43              </td>
+                          <td>31,269.00</td>
+              <td>108,722.00</td>
+              <td>
+                3.48              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Medak</td -->
+              <td>2019 - 2020</td>
+                            <td>29,698.00</td>
+              <td>89,789.00</td>
+              <td>
+                3.02              </td>
+                          <td>13,309.00</td>
+              <td>57,189.00</td>
+              <td>
+                4.30              </td>
+                          <td>2,880.00</td>
+              <td>1,319.00</td>
+              <td>
+                0.46              </td>
+                          <td>48,432.00</td>
+              <td>212,181.00</td>
+              <td>
+                4.38              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">15. Medchal</td>
+                      <td>2016 - 2017</td>
+                        <td>79.00</td>
+            <td>126.00</td>
+            <td>
+              1.59            </td>
+                      <td>1,264.00</td>
+            <td>3,973.00</td>
+            <td>
+              3.14            </td>
+                      <td>20.00</td>
+            <td>14.00</td>
+            <td>
+              0.70            </td>
+                      <td>1,907.00</td>
+            <td>5,015.00</td>
+            <td>
+              2.63            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Medchal</td -->
+              <td>2017 - 2018</td>
+                            <td>150.00</td>
+              <td>411.00</td>
+              <td>
+                2.74              </td>
+                          <td>1,072.00</td>
+              <td>3,698.00</td>
+              <td>
+                3.45              </td>
+                          <td>1.00</td>
+              <td>1.00</td>
+              <td>
+                1.00              </td>
+                          <td>4,844.00</td>
+              <td>16,005.00</td>
+              <td>
+                3.30              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Medchal</td -->
+              <td>2018 - 2019</td>
+                            <td>110.00</td>
+              <td>235.00</td>
+              <td>
+                2.14              </td>
+                          <td>825.00</td>
+              <td>2,044.00</td>
+              <td>
+                2.48              </td>
+                          <td></td>
+              <td></td>
+              <td>
+                              </td>
+                          <td>4,032.00</td>
+              <td>16,757.00</td>
+              <td>
+                4.16              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Medchal</td -->
+              <td>2019 - 2020</td>
+                            <td>174.00</td>
+              <td>559.00</td>
+              <td>
+                3.21              </td>
+                          <td>1,204.00</td>
+              <td>4,902.00</td>
+              <td>
+                4.07              </td>
+                          <td>8.00</td>
+              <td>6.00</td>
+              <td>
+                0.75              </td>
+                          <td>5,139.00</td>
+              <td>20,191.00</td>
+              <td>
+                3.93              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="2">16. Mulugu</td>
+                      <td>2018 - 2019</td>
+                        <td>12,068.00</td>
+            <td>5,998.00</td>
+            <td>
+              0.50            </td>
+                      <td>1,629.00</td>
+            <td>11,077.00</td>
+            <td>
+              6.80            </td>
+                      <td>51.00</td>
+            <td>32.00</td>
+            <td>
+              0.63            </td>
+                      <td>35,880.00</td>
+            <td>130,818.00</td>
+            <td>
+              3.65            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Mulugu</td -->
+              <td>2019 - 2020</td>
+                            <td>11,604.00</td>
+              <td>42,844.00</td>
+              <td>
+                3.69              </td>
+                          <td>1,479.00</td>
+              <td>9,753.00</td>
+              <td>
+                6.59              </td>
+                          <td>39.00</td>
+              <td>31.00</td>
+              <td>
+                0.79              </td>
+                          <td>38,066.00</td>
+              <td>130,186.00</td>
+              <td>
+                3.42              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">17. Nagarkurnool</td>
+                      <td>2016 - 2017</td>
+                        <td>67,350.00</td>
+            <td>118,061.00</td>
+            <td>
+              1.75            </td>
+                      <td>114,884.00</td>
+            <td>125,338.00</td>
+            <td>
+              1.09            </td>
+                      <td>117.00</td>
+            <td>75.00</td>
+            <td>
+              0.64            </td>
+                      <td>7,727.00</td>
+            <td>21,549.00</td>
+            <td>
+              2.79            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nagarkurnool</td -->
+              <td>2017 - 2018</td>
+                            <td>127,009.00</td>
+              <td>194,249.00</td>
+              <td>
+                1.53              </td>
+                          <td>65,344.00</td>
+              <td>131,472.00</td>
+              <td>
+                2.01              </td>
+                          <td>28.00</td>
+              <td>18.00</td>
+              <td>
+                0.64              </td>
+                          <td>8,272.00</td>
+              <td>18,074.00</td>
+              <td>
+                2.18              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nagarkurnool</td -->
+              <td>2018 - 2019</td>
+                            <td>119,059.00</td>
+              <td>105,752.00</td>
+              <td>
+                0.89              </td>
+                          <td>58,462.00</td>
+              <td>37,474.00</td>
+              <td>
+                0.64              </td>
+                          <td>37.00</td>
+              <td>23.00</td>
+              <td>
+                0.62              </td>
+                          <td>15,792.00</td>
+              <td>37,538.00</td>
+              <td>
+                2.38              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nagarkurnool</td -->
+              <td>2019 - 2020</td>
+                            <td>142,192.00</td>
+              <td>477,438.00</td>
+              <td>
+                3.36              </td>
+                          <td>33,607.00</td>
+              <td>86,119.00</td>
+              <td>
+                2.56              </td>
+                          <td>44.00</td>
+              <td>35.00</td>
+              <td>
+                0.80              </td>
+                          <td>24,324.00</td>
+              <td>80,975.00</td>
+              <td>
+                3.33              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="6">18. Nalgonda</td>
+                      <td>2014 - 2015</td>
+                        <td>307,792.00</td>
+            <td>505,141.00</td>
+            <td>
+              1.64            </td>
+                      <td>2,869.00</td>
+            <td>2,163.00</td>
+            <td>
+              0.75            </td>
+                      <td>8,844.00</td>
+            <td>2,574.00</td>
+            <td>
+              0.29            </td>
+                      <td>177,458.00</td>
+            <td>549,765.00</td>
+            <td>
+              3.10            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nalgonda</td -->
+              <td>2015 - 2016</td>
+                            <td>341,655.00</td>
+              <td>641,281.00</td>
+              <td>
+                1.88              </td>
+                          <td>2,251.00</td>
+              <td>1,567.00</td>
+              <td>
+                0.70              </td>
+                          <td>21,612.00</td>
+              <td>11,346.00</td>
+              <td>
+                0.52              </td>
+                          <td>127,904.00</td>
+              <td>390,235.00</td>
+              <td>
+                3.05              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nalgonda</td -->
+              <td>2016 - 2017</td>
+                            <td>203,081.00</td>
+              <td>334,486.00</td>
+              <td>
+                1.65              </td>
+                          <td>411.00</td>
+              <td>776.00</td>
+              <td>
+                1.89              </td>
+                          <td>4,638.00</td>
+              <td>1,906.00</td>
+              <td>
+                0.41              </td>
+                          <td>56,261.00</td>
+              <td>189,543.00</td>
+              <td>
+                3.37              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nalgonda</td -->
+              <td>2017 - 2018</td>
+                            <td>233,520.00</td>
+              <td>497,260.00</td>
+              <td>
+                2.13              </td>
+                          <td>66.00</td>
+              <td>228.00</td>
+              <td>
+                3.45              </td>
+                          <td>1,256.00</td>
+              <td>643.00</td>
+              <td>
+                0.51              </td>
+                          <td>63,661.00</td>
+              <td>170,548.00</td>
+              <td>
+                2.68              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nalgonda</td -->
+              <td>2018 - 2019</td>
+                            <td>228,833.00</td>
+              <td>397,093.00</td>
+              <td>
+                1.74              </td>
+                          <td>14.00</td>
+              <td>43.00</td>
+              <td>
+                3.07              </td>
+                          <td>464.00</td>
+              <td>112.00</td>
+              <td>
+                0.24              </td>
+                          <td>93,564.00</td>
+              <td>290,703.00</td>
+              <td>
+                3.11              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nalgonda</td -->
+              <td>2019 - 2020</td>
+                            <td>273,699.00</td>
+              <td>716,107.00</td>
+              <td>
+                2.62              </td>
+                          <td>31.00</td>
+              <td>151.00</td>
+              <td>
+                4.87              </td>
+                          <td>211.00</td>
+              <td>62.00</td>
+              <td>
+                0.29              </td>
+                          <td>129,052.00</td>
+              <td>445,100.00</td>
+              <td>
+                3.45              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="2">19. Narayanapet</td>
+                      <td>2018 - 2019</td>
+                        <td>41,972.00</td>
+            <td>9,192.00</td>
+            <td>
+              0.22            </td>
+                      <td>1,124.00</td>
+            <td>1,351.00</td>
+            <td>
+              1.20            </td>
+                      <td>3,871.00</td>
+            <td>2,098.00</td>
+            <td>
+              0.54            </td>
+                      <td>19,629.00</td>
+            <td>47,856.00</td>
+            <td>
+              2.44            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Narayanapet</td -->
+              <td>2019 - 2020</td>
+                            <td>63,734.00</td>
+              <td>206,590.00</td>
+              <td>
+                3.24              </td>
+                          <td>380.00</td>
+              <td>1,841.00</td>
+              <td>
+                4.84              </td>
+                          <td>1,561.00</td>
+              <td>617.00</td>
+              <td>
+                0.40              </td>
+                          <td>33,896.00</td>
+              <td>107,416.00</td>
+              <td>
+                3.17              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">20. Nirmal</td>
+                      <td>2016 - 2017</td>
+                        <td>50,504.00</td>
+            <td>137,549.00</td>
+            <td>
+              2.72            </td>
+                      <td>9,693.00</td>
+            <td>33,499.00</td>
+            <td>
+              3.46            </td>
+                      <td>1,974.00</td>
+            <td>1,275.00</td>
+            <td>
+              0.65            </td>
+                      <td>20,477.00</td>
+            <td>63,822.00</td>
+            <td>
+              3.12            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nirmal</td -->
+              <td>2017 - 2018</td>
+                            <td>59,258.00</td>
+              <td>197,991.00</td>
+              <td>
+                3.34              </td>
+                          <td>7,982.00</td>
+              <td>45,681.00</td>
+              <td>
+                5.72              </td>
+                          <td>1,437.00</td>
+              <td>917.00</td>
+              <td>
+                0.64              </td>
+                          <td>20,313.00</td>
+              <td>48,406.00</td>
+              <td>
+                2.38              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nirmal</td -->
+              <td>2018 - 2019</td>
+                            <td>57,216.00</td>
+              <td>150,781.00</td>
+              <td>
+                2.64              </td>
+                          <td>7,781.00</td>
+              <td>47,542.00</td>
+              <td>
+                6.11              </td>
+                          <td>1,060.00</td>
+              <td>788.00</td>
+              <td>
+                0.74              </td>
+                          <td>26,224.00</td>
+              <td>84,913.00</td>
+              <td>
+                3.24              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nirmal</td -->
+              <td>2019 - 2020</td>
+                            <td>55,585.00</td>
+              <td>164,016.00</td>
+              <td>
+                2.95              </td>
+                          <td>13,355.00</td>
+              <td>109,365.00</td>
+              <td>
+                8.19              </td>
+                          <td>922.00</td>
+              <td>744.00</td>
+              <td>
+                0.81              </td>
+                          <td>38,778.00</td>
+              <td>141,501.00</td>
+              <td>
+                3.65              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="6">21. Nizamabad</td>
+                      <td>2014 - 2015</td>
+                        <td>15,795.00</td>
+            <td>18,861.00</td>
+            <td>
+              1.19            </td>
+                      <td>39,136.00</td>
+            <td>191,688.00</td>
+            <td>
+              4.90            </td>
+                      <td>5,761.00</td>
+            <td>1,895.00</td>
+            <td>
+              0.33            </td>
+                      <td>112,427.00</td>
+            <td>404,400.00</td>
+            <td>
+              3.60            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nizamabad</td -->
+              <td>2015 - 2016</td>
+                            <td>16,658.00</td>
+              <td>16,524.00</td>
+              <td>
+                0.99              </td>
+                          <td>32,976.00</td>
+              <td>146,578.00</td>
+              <td>
+                4.44              </td>
+                          <td>5,018.00</td>
+              <td>1,566.00</td>
+              <td>
+                0.31              </td>
+                          <td>80,451.00</td>
+              <td>208,770.00</td>
+              <td>
+                2.59              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nizamabad</td -->
+              <td>2016 - 2017</td>
+                            <td>994.00</td>
+              <td>2,292.00</td>
+              <td>
+                2.31              </td>
+                          <td>17,644.00</td>
+              <td>92,896.00</td>
+              <td>
+                5.27              </td>
+                          <td>688.00</td>
+              <td>590.00</td>
+              <td>
+                0.86              </td>
+                          <td>86,923.00</td>
+              <td>342,824.00</td>
+              <td>
+                3.94              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nizamabad</td -->
+              <td>2017 - 2018</td>
+                            <td>1,404.00</td>
+              <td>4,782.00</td>
+              <td>
+                3.41              </td>
+                          <td>21,486.00</td>
+              <td>108,075.00</td>
+              <td>
+                5.03              </td>
+                          <td>453.00</td>
+              <td>289.00</td>
+              <td>
+                0.64              </td>
+                          <td>91,750.00</td>
+              <td>322,501.00</td>
+              <td>
+                3.51              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nizamabad</td -->
+              <td>2018 - 2019</td>
+                            <td>1,295.00</td>
+              <td>3,725.00</td>
+              <td>
+                2.88              </td>
+                          <td>20,788.00</td>
+              <td>118,512.00</td>
+              <td>
+                5.70              </td>
+                          <td>364.00</td>
+              <td>229.00</td>
+              <td>
+                0.63              </td>
+                          <td>101,266.00</td>
+              <td>425,722.00</td>
+              <td>
+                4.20              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Nizamabad</td -->
+              <td>2019 - 2020</td>
+                            <td>1,487.00</td>
+              <td>6,116.00</td>
+              <td>
+                4.11              </td>
+                          <td>22,237.00</td>
+              <td>142,598.00</td>
+              <td>
+                6.41              </td>
+                          <td>110.00</td>
+              <td>87.00</td>
+              <td>
+                0.79              </td>
+                          <td>143,238.00</td>
+              <td>594,581.00</td>
+              <td>
+                4.15              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">22. Peddapalli</td>
+                      <td>2016 - 2017</td>
+                        <td>30,656.00</td>
+            <td>98,099.00</td>
+            <td>
+              3.20            </td>
+                      <td>8,065.00</td>
+            <td>36,631.00</td>
+            <td>
+              4.54            </td>
+                      <td>975.00</td>
+            <td>593.00</td>
+            <td>
+              0.61            </td>
+                      <td>37,754.00</td>
+            <td>143,050.00</td>
+            <td>
+              3.79            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Peddapalli</td -->
+              <td>2017 - 2018</td>
+                            <td>39,307.00</td>
+              <td>126,476.00</td>
+              <td>
+                3.22              </td>
+                          <td>1,499.00</td>
+              <td>10,367.00</td>
+              <td>
+                6.92              </td>
+                          <td>91.00</td>
+              <td>58.00</td>
+              <td>
+                0.64              </td>
+                          <td>50,069.00</td>
+              <td>146,101.00</td>
+              <td>
+                2.92              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Peddapalli</td -->
+              <td>2018 - 2019</td>
+                            <td>35,027.00</td>
+              <td>110,850.00</td>
+              <td>
+                3.16              </td>
+                          <td>1,624.00</td>
+              <td>10,740.00</td>
+              <td>
+                6.61              </td>
+                          <td>58.00</td>
+              <td>36.00</td>
+              <td>
+                0.62              </td>
+                          <td>57,805.00</td>
+              <td>231,104.00</td>
+              <td>
+                4.00              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Peddapalli</td -->
+              <td>2019 - 2020</td>
+                            <td>31,142.00</td>
+              <td>93,704.00</td>
+              <td>
+                3.01              </td>
+                          <td>1,717.00</td>
+              <td>14,216.00</td>
+              <td>
+                8.28              </td>
+                          <td>220.00</td>
+              <td>173.00</td>
+              <td>
+                0.79              </td>
+                          <td>77,960.00</td>
+              <td>298,821.00</td>
+              <td>
+                3.83              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">23. Rajanna</td>
+                      <td>2016 - 2017</td>
+                        <td>42,806.00</td>
+            <td>136,979.00</td>
+            <td>
+              3.20            </td>
+                      <td>5,592.00</td>
+            <td>25,399.00</td>
+            <td>
+              4.54            </td>
+                      <td>1,306.00</td>
+            <td>794.00</td>
+            <td>
+              0.61            </td>
+                      <td>18,093.00</td>
+            <td>68,554.00</td>
+            <td>
+              3.79            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Rajanna</td -->
+              <td>2017 - 2018</td>
+                            <td>50,586.00</td>
+              <td>169,909.00</td>
+              <td>
+                3.36              </td>
+                          <td>1,965.00</td>
+              <td>5,604.00</td>
+              <td>
+                2.85              </td>
+                          <td>348.00</td>
+              <td>222.00</td>
+              <td>
+                0.64              </td>
+                          <td>22,724.00</td>
+              <td>70,513.00</td>
+              <td>
+                3.10              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Rajanna</td -->
+              <td>2018 - 2019</td>
+                            <td>51,270.00</td>
+              <td>138,127.00</td>
+              <td>
+                2.69              </td>
+                          <td>988.00</td>
+              <td>5,091.00</td>
+              <td>
+                5.15              </td>
+                          <td>217.00</td>
+              <td>136.00</td>
+              <td>
+                0.63              </td>
+                          <td>22,978.00</td>
+              <td>85,019.00</td>
+              <td>
+                3.70              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Rajanna</td -->
+              <td>2019 - 2020</td>
+                            <td>50,178.00</td>
+              <td>245,796.00</td>
+              <td>
+                4.90              </td>
+                          <td>1,594.00</td>
+              <td>11,199.00</td>
+              <td>
+                7.03              </td>
+                          <td>350.00</td>
+              <td>276.00</td>
+              <td>
+                0.79              </td>
+                          <td>40,746.00</td>
+              <td>176,878.00</td>
+              <td>
+                4.34              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="6">24. Rangareddi</td>
+                      <td>2014 - 2015</td>
+                        <td>63,469.00</td>
+            <td>110,511.00</td>
+            <td>
+              1.74            </td>
+                      <td>45,795.00</td>
+            <td>131,935.00</td>
+            <td>
+              2.88            </td>
+                      <td>3,965.00</td>
+            <td>2,569.00</td>
+            <td>
+              0.65            </td>
+                      <td>23,817.00</td>
+            <td>60,376.00</td>
+            <td>
+              2.53            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Rangareddi</td -->
+              <td>2015 - 2016</td>
+                            <td>63,008.00</td>
+              <td>93,938.00</td>
+              <td>
+                1.49              </td>
+                          <td>45,140.00</td>
+              <td>171,126.00</td>
+              <td>
+                3.79              </td>
+                          <td>4,874.00</td>
+              <td>2,461.00</td>
+              <td>
+                0.50              </td>
+                          <td>17,116.00</td>
+              <td>44,399.00</td>
+              <td>
+                2.59              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Rangareddi</td -->
+              <td>2016 - 2017</td>
+                            <td>46,101.00</td>
+              <td>73,762.00</td>
+              <td>
+                1.60              </td>
+                          <td>65,172.00</td>
+              <td>204,836.00</td>
+              <td>
+                3.14              </td>
+                          <td>662.00</td>
+              <td>459.00</td>
+              <td>
+                0.69              </td>
+                          <td>10,508.00</td>
+              <td>27,636.00</td>
+              <td>
+                2.63              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Rangareddi</td -->
+              <td>2017 - 2018</td>
+                            <td>80,375.00</td>
+              <td>177,771.00</td>
+              <td>
+                2.21              </td>
+                          <td>50,529.00</td>
+              <td>108,991.00</td>
+              <td>
+                2.16              </td>
+                          <td>224.00</td>
+              <td>143.00</td>
+              <td>
+                0.64              </td>
+                          <td>13,256.00</td>
+              <td>32,954.00</td>
+              <td>
+                2.49              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Rangareddi</td -->
+              <td>2018 - 2019</td>
+                            <td>71,395.00</td>
+              <td>88,194.00</td>
+              <td>
+                1.24              </td>
+                          <td>47,687.00</td>
+              <td>34,001.00</td>
+              <td>
+                0.71              </td>
+                          <td>91.00</td>
+              <td>57.00</td>
+              <td>
+                0.63              </td>
+                          <td>13,475.00</td>
+              <td>41,651.00</td>
+              <td>
+                3.09              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Rangareddi</td -->
+              <td>2019 - 2020</td>
+                            <td>86,994.00</td>
+              <td>236,465.00</td>
+              <td>
+                2.72              </td>
+                          <td>43,348.00</td>
+              <td>144,071.00</td>
+              <td>
+                3.32              </td>
+                          <td>140.00</td>
+              <td>110.00</td>
+              <td>
+                0.79              </td>
+                          <td>14,396.00</td>
+              <td>47,507.00</td>
+              <td>
+                3.30              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">25. Sangareddy</td>
+                      <td>2016 - 2017</td>
+                        <td>69,740.00</td>
+            <td>149,326.00</td>
+            <td>
+              2.14            </td>
+                      <td>20,462.00</td>
+            <td>51,523.00</td>
+            <td>
+              2.52            </td>
+                      <td>23,733.00</td>
+            <td>16,091.00</td>
+            <td>
+              0.68            </td>
+                      <td>11,530.00</td>
+            <td>35,309.00</td>
+            <td>
+              3.06            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Sangareddy</td -->
+              <td>2017 - 2018</td>
+                            <td>106,002.00</td>
+              <td>415,902.00</td>
+              <td>
+                3.92              </td>
+                          <td>13,561.00</td>
+              <td>48,128.00</td>
+              <td>
+                3.55              </td>
+                          <td>14,611.00</td>
+              <td>11,616.00</td>
+              <td>
+                0.80              </td>
+                          <td>21,040.00</td>
+              <td>66,594.00</td>
+              <td>
+                3.17              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Sangareddy</td -->
+              <td>2018 - 2019</td>
+                            <td>99,543.00</td>
+              <td>189,132.00</td>
+              <td>
+                1.90              </td>
+                          <td>13,338.00</td>
+              <td>42,041.00</td>
+              <td>
+                3.15              </td>
+                          <td>13,017.00</td>
+              <td>9,685.00</td>
+              <td>
+                0.74              </td>
+                          <td>18,058.00</td>
+              <td>54,716.00</td>
+              <td>
+                3.03              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Sangareddy</td -->
+              <td>2019 - 2020</td>
+                            <td>140,009.00</td>
+              <td>449,762.00</td>
+              <td>
+                3.21              </td>
+                          <td>11,947.00</td>
+              <td>53,640.00</td>
+              <td>
+                4.49              </td>
+                          <td>17,863.00</td>
+              <td>14,969.00</td>
+              <td>
+                0.84              </td>
+                          <td>22,020.00</td>
+              <td>85,526.00</td>
+              <td>
+                3.88              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">26. Siddipet</td>
+                      <td>2016 - 2017</td>
+                        <td>51,581.00</td>
+            <td>110,444.00</td>
+            <td>
+              2.14            </td>
+                      <td>101,381.00</td>
+            <td>255,277.00</td>
+            <td>
+              2.52            </td>
+                      <td>959.00</td>
+            <td>650.00</td>
+            <td>
+              0.68            </td>
+                      <td>22,772.00</td>
+            <td>69,773.00</td>
+            <td>
+              3.06            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Siddipet</td -->
+              <td>2017 - 2018</td>
+                            <td>77,061.00</td>
+              <td>261,554.00</td>
+              <td>
+                3.39              </td>
+                          <td>68,570.00</td>
+              <td>197,687.00</td>
+              <td>
+                2.88              </td>
+                          <td>567.00</td>
+              <td>362.00</td>
+              <td>
+                0.64              </td>
+                          <td>34,495.00</td>
+              <td>113,178.00</td>
+              <td>
+                3.28              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Siddipet</td -->
+              <td>2018 - 2019</td>
+                            <td>74,505.00</td>
+              <td>127,535.00</td>
+              <td>
+                1.71              </td>
+                          <td>62,873.00</td>
+              <td>162,904.00</td>
+              <td>
+                2.59              </td>
+                          <td>314.00</td>
+              <td>198.00</td>
+              <td>
+                0.63              </td>
+                          <td>34,756.00</td>
+              <td>114,764.00</td>
+              <td>
+                3.30              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Siddipet</td -->
+              <td>2019 - 2020</td>
+                            <td>91,914.00</td>
+              <td>313,964.00</td>
+              <td>
+                3.42              </td>
+                          <td>50,005.00</td>
+              <td>215,499.00</td>
+              <td>
+                4.31              </td>
+                          <td>587.00</td>
+              <td>463.00</td>
+              <td>
+                0.79              </td>
+                          <td>49,501.00</td>
+              <td>185,183.00</td>
+              <td>
+                3.74              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">27. Suryapet</td>
+                      <td>2016 - 2017</td>
+                        <td>33,598.00</td>
+            <td>55,338.00</td>
+            <td>
+              1.65            </td>
+                      <td>41.00</td>
+            <td>77.00</td>
+            <td>
+              1.88            </td>
+                      <td>23,876.00</td>
+            <td>9,813.00</td>
+            <td>
+              0.41            </td>
+                      <td>67,784.00</td>
+            <td>228,364.00</td>
+            <td>
+              3.37            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Suryapet</td -->
+              <td>2017 - 2018</td>
+                            <td>49,916.00</td>
+              <td>164,723.00</td>
+              <td>
+                3.30              </td>
+                          <td>30.00</td>
+              <td>104.00</td>
+              <td>
+                3.47              </td>
+                          <td>17,712.00</td>
+              <td>9,086.00</td>
+              <td>
+                0.51              </td>
+                          <td>67,674.00</td>
+              <td>231,648.00</td>
+              <td>
+                3.42              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Suryapet</td -->
+              <td>2018 - 2019</td>
+                            <td>47,530.00</td>
+              <td>156,290.00</td>
+              <td>
+                3.29              </td>
+                          <td>17.00</td>
+              <td>53.00</td>
+              <td>
+                3.12              </td>
+                          <td>9,589.00</td>
+              <td>4,334.00</td>
+              <td>
+                0.45              </td>
+                          <td>93,032.00</td>
+              <td>308,215.00</td>
+              <td>
+                3.31              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Suryapet</td -->
+              <td>2019 - 2020</td>
+                            <td>65,642.00</td>
+              <td>215,637.00</td>
+              <td>
+                3.29              </td>
+                          <td>11.00</td>
+              <td>53.00</td>
+              <td>
+                4.82              </td>
+                          <td>5,634.00</td>
+              <td>3,403.00</td>
+              <td>
+                0.60              </td>
+                          <td>127,779.00</td>
+              <td>451,315.00</td>
+              <td>
+                3.53              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">28. Vikarabad</td>
+                      <td>2016 - 2017</td>
+                        <td>30,790.00</td>
+            <td>49,264.00</td>
+            <td>
+              1.60            </td>
+                      <td>36,690.00</td>
+            <td>115,317.00</td>
+            <td>
+              3.14            </td>
+                      <td>9,508.00</td>
+            <td>6,589.00</td>
+            <td>
+              0.69            </td>
+                      <td>12,082.00</td>
+            <td>31,776.00</td>
+            <td>
+              2.63            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Vikarabad</td -->
+              <td>2017 - 2018</td>
+                            <td>51,597.00</td>
+              <td>132,028.00</td>
+              <td>
+                2.56              </td>
+                          <td>28,021.00</td>
+              <td>88,939.00</td>
+              <td>
+                3.17              </td>
+                          <td>8,360.00</td>
+              <td>4,581.00</td>
+              <td>
+                0.55              </td>
+                          <td>8,845.00</td>
+              <td>21,900.00</td>
+              <td>
+                2.48              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Vikarabad</td -->
+              <td>2018 - 2019</td>
+                            <td>55,174.00</td>
+              <td>115,865.00</td>
+              <td>
+                2.10              </td>
+                          <td>25,546.00</td>
+              <td>82,948.00</td>
+              <td>
+                3.25              </td>
+                          <td>7,248.00</td>
+              <td>6,299.00</td>
+              <td>
+                0.87              </td>
+                          <td>10,207.00</td>
+              <td>30,192.00</td>
+              <td>
+                2.96              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Vikarabad</td -->
+              <td>2019 - 2020</td>
+                            <td>77,484.00</td>
+              <td>224,129.00</td>
+              <td>
+                2.89              </td>
+                          <td>29,506.00</td>
+              <td>153,476.00</td>
+              <td>
+                5.20              </td>
+                          <td>6,860.00</td>
+              <td>5,989.00</td>
+              <td>
+                0.87              </td>
+                          <td>11,445.00</td>
+              <td>36,475.00</td>
+              <td>
+                3.19              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">29. Wanaparthy</td>
+                      <td>2016 - 2017</td>
+                        <td>1,675.00</td>
+            <td>2,936.00</td>
+            <td>
+              1.75            </td>
+                      <td>23,282.00</td>
+            <td>25,401.00</td>
+            <td>
+              1.09            </td>
+                      <td>993.00</td>
+            <td>637.00</td>
+            <td>
+              0.64            </td>
+                      <td>31,578.00</td>
+            <td>88,281.00</td>
+            <td>
+              2.80            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Wanaparthy</td -->
+              <td>2017 - 2018</td>
+                            <td>4,380.00</td>
+              <td>12,058.00</td>
+              <td>
+                2.75              </td>
+                          <td>18,079.00</td>
+              <td>57,329.00</td>
+              <td>
+                3.17              </td>
+                          <td>714.00</td>
+              <td>456.00</td>
+              <td>
+                0.64              </td>
+                          <td>34,025.00</td>
+              <td>68,751.00</td>
+              <td>
+                2.02              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Wanaparthy</td -->
+              <td>2018 - 2019</td>
+                            <td>2,736.00</td>
+              <td>4,056.00</td>
+              <td>
+                1.48              </td>
+                          <td>9,682.00</td>
+              <td>28,601.00</td>
+              <td>
+                2.95              </td>
+                          <td>351.00</td>
+              <td>221.00</td>
+              <td>
+                0.63              </td>
+                          <td>39,617.00</td>
+              <td>118,653.00</td>
+              <td>
+                3.00              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Wanaparthy</td -->
+              <td>2019 - 2020</td>
+                            <td>2,988.00</td>
+              <td>10,119.00</td>
+              <td>
+                3.39              </td>
+                          <td>6,804.00</td>
+              <td>35,742.00</td>
+              <td>
+                5.25              </td>
+                          <td>92.00</td>
+              <td>72.00</td>
+              <td>
+                0.78              </td>
+                          <td>55,423.00</td>
+              <td>182,508.00</td>
+              <td>
+                3.29              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="6">30. Warangal</td>
+                      <td>2014 - 2015</td>
+                        <td>228,057.00</td>
+            <td>607,705.00</td>
+            <td>
+              2.66            </td>
+                      <td>67,200.00</td>
+            <td>267,994.00</td>
+            <td>
+              3.99            </td>
+                      <td>17,717.00</td>
+            <td>10,506.00</td>
+            <td>
+              0.59            </td>
+                      <td>95,515.00</td>
+            <td>282,059.00</td>
+            <td>
+              2.95            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Warangal</td -->
+              <td>2015 - 2016</td>
+                            <td>251,021.00</td>
+              <td>641,636.00</td>
+              <td>
+                2.56              </td>
+                          <td>43,140.00</td>
+              <td>157,763.00</td>
+              <td>
+                3.66              </td>
+                          <td>17,226.00</td>
+              <td>11,145.00</td>
+              <td>
+                0.65              </td>
+                          <td>127,156.00</td>
+              <td>402,403.00</td>
+              <td>
+                3.16              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Warangal</td -->
+              <td>2016 - 2017</td>
+                            <td>60,180.00</td>
+              <td>182,310.00</td>
+              <td>
+                3.03              </td>
+                          <td>20,548.00</td>
+              <td>87,329.00</td>
+              <td>
+                4.25              </td>
+                          <td>884.00</td>
+              <td>692.00</td>
+              <td>
+                0.78              </td>
+                          <td>30,358.00</td>
+              <td>104,310.00</td>
+              <td>
+                3.44              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Warangal</td -->
+              <td>2017 - 2018</td>
+                            <td>73,140.00</td>
+              <td>124,338.00</td>
+              <td>
+                1.70              </td>
+                          <td>15,803.00</td>
+              <td>110,100.00</td>
+              <td>
+                6.97              </td>
+                          <td>474.00</td>
+              <td>302.00</td>
+              <td>
+                0.64              </td>
+                          <td>36,097.00</td>
+              <td>89,376.00</td>
+              <td>
+                2.48              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Warangal</td -->
+              <td>2018 - 2019</td>
+                            <td>69,337.00</td>
+              <td>183,131.00</td>
+              <td>
+                2.64              </td>
+                          <td>17,391.00</td>
+              <td>111,685.00</td>
+              <td>
+                6.42              </td>
+                          <td>495.00</td>
+              <td>311.00</td>
+              <td>
+                0.63              </td>
+                          <td>38,187.00</td>
+              <td>127,659.00</td>
+              <td>
+                3.34              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Warangal</td -->
+              <td>2019 - 2020</td>
+                            <td>69,508.00</td>
+              <td>196,005.00</td>
+              <td>
+                2.82              </td>
+                          <td>18,370.00</td>
+              <td>106,633.00</td>
+              <td>
+                5.80              </td>
+                          <td>313.00</td>
+              <td>247.00</td>
+              <td>
+                0.79              </td>
+                          <td>42,972.00</td>
+              <td>147,480.00</td>
+              <td>
+                3.43              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">31. Warangal urban</td>
+                      <td>2016 - 2017</td>
+                        <td>30,041.00</td>
+            <td>91,007.00</td>
+            <td>
+              3.03            </td>
+                      <td>9,200.00</td>
+            <td>39,100.00</td>
+            <td>
+              4.25            </td>
+                      <td>291.00</td>
+            <td>228.00</td>
+            <td>
+              0.78            </td>
+                      <td>15,772.00</td>
+            <td>54,193.00</td>
+            <td>
+              3.44            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Warangal urban</td -->
+              <td>2017 - 2018</td>
+                            <td>35,408.00</td>
+              <td>79,980.00</td>
+              <td>
+                2.26              </td>
+                          <td>7,420.00</td>
+              <td>41,055.00</td>
+              <td>
+                5.53              </td>
+                          <td>132.00</td>
+              <td>84.00</td>
+              <td>
+                0.64              </td>
+                          <td>16,651.00</td>
+              <td>41,011.00</td>
+              <td>
+                2.46              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Warangal urban</td -->
+              <td>2018 - 2019</td>
+                            <td>32,838.00</td>
+              <td>73,789.00</td>
+              <td>
+                2.25              </td>
+                          <td>6,717.00</td>
+              <td>28,856.00</td>
+              <td>
+                4.30              </td>
+                          <td>70.00</td>
+              <td>44.00</td>
+              <td>
+                0.63              </td>
+                          <td>15,384.00</td>
+              <td>53,875.00</td>
+              <td>
+                3.50              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Warangal urban</td -->
+              <td>2019 - 2020</td>
+                            <td>30,888.00</td>
+              <td>82,161.00</td>
+              <td>
+                2.66              </td>
+                          <td>9,843.00</td>
+              <td>53,973.00</td>
+              <td>
+                5.48              </td>
+                          <td>156.00</td>
+              <td>123.00</td>
+              <td>
+                0.79              </td>
+                          <td>26,807.00</td>
+              <td>93,851.00</td>
+              <td>
+                3.50              </td>
+            
+
+            </tr>
+                          <tr>
+                        <td rowspan="4">32. Yadadri</td>
+                      <td>2016 - 2017</td>
+                        <td>47,207.00</td>
+            <td>77,753.00</td>
+            <td>
+              1.65            </td>
+                      <td>5,183.00</td>
+            <td>9,786.00</td>
+            <td>
+              1.89            </td>
+                      <td>961.00</td>
+            <td>395.00</td>
+            <td>
+              0.41            </td>
+                      <td>32,083.00</td>
+            <td>108,088.00</td>
+            <td>
+              3.37            </td>
+          
+
+          </tr>
+                      <tr>
+
+              <!-- td rowspan="">Yadadri</td -->
+              <td>2017 - 2018</td>
+                            <td>67,848.00</td>
+              <td>166,826.00</td>
+              <td>
+                2.46              </td>
+                          <td>1,392.00</td>
+              <td>4,101.00</td>
+              <td>
+                2.95              </td>
+                          <td>330.00</td>
+              <td>211.00</td>
+              <td>
+                0.64              </td>
+                          <td>51,081.00</td>
+              <td>169,078.00</td>
+              <td>
+                3.31              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Yadadri</td -->
+              <td>2018 - 2019</td>
+                            <td>67,266.00</td>
+              <td>108,021.00</td>
+              <td>
+                1.61              </td>
+                          <td>2,059.00</td>
+              <td>4,351.00</td>
+              <td>
+                2.11              </td>
+                          <td>397.00</td>
+              <td>250.00</td>
+              <td>
+                0.63              </td>
+                          <td>47,562.00</td>
+              <td>160,712.00</td>
+              <td>
+                3.38              </td>
+            
+
+            </tr>
+                      <tr>
+
+              <!-- td rowspan="">Yadadri</td -->
+              <td>2019 - 2020</td>
+                            <td>69,609.00</td>
+              <td>215,515.00</td>
+              <td>
+                3.10              </td>
+                          <td>1,265.00</td>
+              <td>2,691.00</td>
+              <td>
+                2.13              </td>
+                          <td>435.00</td>
+              <td>343.00</td>
+              <td>
+                0.79              </td>
+                          <td>52,183.00</td>
+              <td>196,104.00</td>
+              <td>
+                3.76              </td>
+            
+
+            </tr>
+                      
+      </tbody>
+      </table>
